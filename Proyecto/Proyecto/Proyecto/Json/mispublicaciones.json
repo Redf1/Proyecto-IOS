@@ -1,0 +1,45 @@
+
+[
+  {
+      "id":1,
+      "titulo":"Iphone 15",
+      "imagen":"Iphone",
+      "precio":"$ 1250",
+      "descripcion":"Buen estado poco negociable"
+  },
+  {
+      "id":2,
+      "titulo":"Asus",
+      "imagen":"Asus",
+      "precio":"$ 980",
+      "descripcion":"Bonita computadora funciona al 100"
+  },
+  {
+      "id":3,
+      "titulo":"Audifonos",
+      "imagen":"audifonosnegros",
+      "precio":"$ 43",
+      "descripcion":"Bonitos audifonos negros"
+  },
+  {
+      "id":4,
+      "titulo":"Audifonos",
+      "imagen":"audifonosazul",
+      "precio":"$ 65",
+      "descripcion":"Audifonos inalambricos"
+  },
+  {
+      "id":5,
+      "titulo":"Control para Telefono",
+      "imagen":"controltelefono",
+      "precio":"$ 15",
+      "descripcion":"Control Bluetooth"
+  },
+  {
+      "id":6,
+      "titulo":"Luces led",
+      "imagen":"controlled",
+      "precio":"$ 5",
+      "descripcion":"Control y luces led"
+  }
+]

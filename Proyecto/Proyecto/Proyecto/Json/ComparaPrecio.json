@@ -1,0 +1,24 @@
+
+[
+  {
+      "id":1,
+      "titulo":"Iphone 15",
+      "imagen":"Iphone",
+      "precio":"$ 1250",
+      "descripcion":"Buen estado poco negociable"
+  },
+  {
+      "id":2,
+      "titulo":"Iphone 15",
+      "imagen":"Iphone",
+      "precio":"$ 1300",
+      "descripcion":"Buen estado poco negociable"
+  },
+  {
+      "id":3,
+      "titulo":"Iphone 15",
+      "imagen":"Iphone",
+      "precio":"$ 1200",
+      "descripcion":"Buen estado poco negociable"
+  }
+]
